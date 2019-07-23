@@ -1,1 +1,1 @@
-# SETibet
+waveform data and velocity model
